@@ -216,3 +216,9 @@ footer{
 footer p{
     padding-top: 50px;
 }
+
+@media(max-width:320px){
+iframe{
+    width: 320px;
+}
+}
